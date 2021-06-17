@@ -1,14 +1,9 @@
 # Moot Champions
+## Programmers
 - Matías Vega
 - Carlos Andrés Chiale 
+## Artists
 - Juan Pablo Sala
 - Rodrigo de León
-
-## Description
-
-
-## Controls
-
-
 ## Development
-Made with Unreal Engine 4.26.1
+Made with Unreal Engine 4.26.2
