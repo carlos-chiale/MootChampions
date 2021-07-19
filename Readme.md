@@ -1,4 +1,5 @@
 # Moot Champions
+Moot Champions is a party game reality show in which our participants will have to go through a variety of minigames and fight each other in order to win the show.
 ## Programmers
 - Matías Vega
 - Carlos Andrés Chiale 
